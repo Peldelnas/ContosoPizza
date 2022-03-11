@@ -25,3 +25,4 @@ C:\Users\Alex\Documents\Programming\API\ContosoPizza\obj\Debug\net6.0\refint\Con
 C:\Users\Alex\Documents\Programming\API\ContosoPizza\obj\Debug\net6.0\ContosoPizza.pdb
 C:\Users\Alex\Documents\Programming\API\ContosoPizza\obj\Debug\net6.0\ContosoPizza.genruntimeconfig.cache
 C:\Users\Alex\Documents\Programming\API\ContosoPizza\obj\Debug\net6.0\ref\ContosoPizza.dll
+C:\Users\Alex\Documents\Programming\API\ContosoPizza\bin\Debug\net6.0\openapi.json
